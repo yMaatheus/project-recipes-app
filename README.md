@@ -4,7 +4,7 @@ Neste projeto desenvolvemos um app de receitas com uso de duas APIs
 
 ## 📱 Projeto
 
-Ultimo Projeto do módulo de Front-End Que fiz na Trybe. Aplicação voltada para mobile.
+Último projeto do módulo de Front-End que fiz na [Trybe](https://www.betrybe.com/).
 
 <img src="src/images/fundo_explorer_food_drink.jpg" width="488px" />
 
