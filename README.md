@@ -4,8 +4,6 @@ Neste projeto desenvolvemos um app de receitas com uso de duas APIs
 
 ## 📱 Projeto
 
-Último projeto do módulo de Front-End que fiz na [Trybe](https://www.betrybe.com/).
-
 <img src="src/images/fundo_explorer_food_drink.jpg" width="488px" />
 
 ### 📋 Pré-requisitos
@@ -43,10 +41,3 @@ npm start
 * [Npm](https://docs.npmjs.com/about-npm) - Gerente de dependências
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - Linguagem de programação
 * [React](http://www.dropwizard.io/1.0.2/docs/) - O framework web
-
-## ✒️ Autores
-
-* **[Matheus Henrique](https://github.com/yMaatheus)**
-* **[Fabiano Justino](https://github.com/fabianojustino)**
-* **[Leônidas Drawanz](https://github.com/drawanz)**
-* **[Antonio Fortis Neto](https://github.com/antoniofortisneto)**
