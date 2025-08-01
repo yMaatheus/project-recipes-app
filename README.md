@@ -1,6 +1,6 @@
 # App de Receitas
 
-Neste projeto desenvolvemos um app de receitas com uso de duas APIs
+Neste projeto desenvolvi um app de receitas com uso de duas APIs
 
 ## 📱 Projeto
 
